@@ -8,7 +8,8 @@
 I am Anand, Information System student of Politeknik STMI.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Software Back End Development with java language
+- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
