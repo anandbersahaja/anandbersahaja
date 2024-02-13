@@ -5,11 +5,12 @@
 
 <!-- Here are some ideas to get you started: -->
 
-I am Anand, Information System student of Politeknik STMI.
+I am Anand, graduated of Information System at Politeknik STMI.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Java
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning Node.js, Express.js, MongoDB
+- 🌱 I’m currently learning React.js
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
