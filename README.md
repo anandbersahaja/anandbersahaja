@@ -7,8 +7,8 @@
 
 I am Anand, graduated of Information System at Politeknik STMI.
 <!-- -  I’m currently reading ... -->
-- 🌱 I’m Currentyly reading "The Complete Software Developer’s Career Guide" By Jogn Sonmez
-- 🌱 I’m gonna read book "Clean Code A Handbook of Agile Software Craftsmanship" By Robet C Martins
+- ⚡ I’m Currentyly reading "The Complete Software Developer’s Career Guide" By Jogn Sonmez
+- ⚡ I’m gonna read book "Clean Code A Handbook of Agile Software Craftsmanship" By Robet C Martins
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning HTML, CSS, Javascript
